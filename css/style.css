@@ -10982,9 +10982,10 @@ h5,
   right: 0;
   bottom: 0;
   content: "";
-  opacity: 0.8;
-  background: #009a54;
+  opacity: 0.5;
+  background: rgba(0, 0, 0, 0.5);
 }
+
 .ftco-intro h2.subheading {
   font-size: 20px;
   text-transform: uppercase;
